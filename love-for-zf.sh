@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 _PACKAGES="fvwm xf86-video-qxl xterm xorg-server xorg-fonts-75dpi ttf-dejavu xorg-xinit"
 _USER="arch"
